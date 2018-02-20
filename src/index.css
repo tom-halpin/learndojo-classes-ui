@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 0;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+#missionstrands div.topics a, #missionstrands2 div.topics a {
+	border: 0px solid;
+  margin-right: 0px;
+  text-decoration: underline;
+  background-color: transparent;
+  color: green;	
+	font-size: 20px;
+	line-height: 24px;
+	font-weight: bold;
+  padding: 0px;	
+}
+
+.warning {
+	margin: 1em 0 0.5em 0;
+	color: darkred;
+	font-size: 40px;
+	line-height: 40px;
+	font-weight: normal;
+	text-transform: capitalize;
+	font-family: 'Orienta', sans-serif;
+	letter-spacing: 1px;
+	font-style: italic;
+}
+
+.loading {
+	margin: 1em 0 0.5em 0;
+	color: darkgreen;
+	font-size: 40px;
+	line-height: 40px;
+	font-weight: normal;
+	text-transform: capitalize;
+	font-family: 'Orienta', sans-serif;
+	letter-spacing: 1px;
+	font-style: italic;
+}
